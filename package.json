@@ -1,0 +1,15 @@
+{
+  "name": "reso-certificates",
+  "version": "1.0.0",
+  "description": "Serve RESO Certificates as HTML, JSON, and CSV",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "keywords": ["reso"],
+  "author": "Luke Vivier <luke@vivier.ca>",
+  "dependencies": {
+    "express": "^4.14.1",
+    "jsdom": "^9.10.0"
+  }
+}
